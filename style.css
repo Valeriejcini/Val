@@ -14,7 +14,7 @@ div{
     height: auto;
 }
 .home{
-    color:green
+    color:rgb(255, 255, 255)
 }
 
 .nothome{
@@ -22,11 +22,10 @@ div{
 }
 
 #title{
-    color:blue;
+    color:rgb(228, 228, 255);
 }
 
-.gallery{
-    border: 5px dotted red;
+.blog{
     padding: 2em;
     margin: 0.5em;
     display:flex;
