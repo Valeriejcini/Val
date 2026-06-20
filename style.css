@@ -1,0 +1,39 @@
+body{
+    color:darkgray;
+    background-color: #1d1d1d;
+
+}
+
+div{
+    color: rgb(253, 157, 157);
+    background-color: #1d1d1d;
+}
+
+.thumb{
+    width: 20%;
+    height: auto;
+}
+.home{
+    color:green
+}
+
+.nothome{
+    color:pink
+}
+
+#title{
+    color:blue;
+}
+
+.gallery{
+    border: 5px dotted red;
+    padding: 2em;
+    margin: 0.5em;
+    display:flex;
+    justify-content:space-around;
+    flex-direction: column;
+}
+
+.home>h1{
+    text-align: center;
+}
