@@ -1,7 +1,7 @@
 body{
     color:darkgray;
     background-color: #1d1d1d;
-
+    font-family: "Rationale", sans-serif;
 }
 
 div{
@@ -23,6 +23,7 @@ div{
 
 #title{
     color:rgb(228, 228, 255);
+    font-size: larger;
 }
 
 .blog{
