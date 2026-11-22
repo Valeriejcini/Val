@@ -7,7 +7,7 @@ body{
 }
 
 div{
-    color: rgb(253, 157, 157);
+    color: #9dcffd;
     background-color: #1d1d1d;
     font-size: large;
 }
@@ -21,7 +21,7 @@ div{
 }
 
 .nothome{
-    color:pink
+    color:#b6deff
 }
 
 #title{
